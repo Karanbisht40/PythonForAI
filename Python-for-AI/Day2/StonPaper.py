@@ -1,6 +1,5 @@
 #rock, paper, scissors game
 import random
-
 choices = ["Rock", "Paper", "Scissors"]
 
 player = random.randint(0, 2)
