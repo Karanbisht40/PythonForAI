@@ -3,6 +3,7 @@ class Student:
     rollno="22"
     year="4th"
      #self ke sth pass kr skte h
+     
     def __init__(self, branch, course):
        print("whenver a object is created i am called automatically")
        print(self)
