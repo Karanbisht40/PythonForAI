@@ -7,9 +7,9 @@ class Student:
         self.name = "Karan"
         self.__marks = 95   # Private variable
 
-    def show_marks(self):
+    def show_marks(self): #accessing private variable through function
         print(self.__marks)
 
 student = Student()
 
-student.show_marks()
+student.show_marks() 
