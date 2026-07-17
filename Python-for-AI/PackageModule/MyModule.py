@@ -5,6 +5,10 @@ def hello(name):
 def bye(name):
     return print(f"bye,{name} take care")
 
+def go(name):
+    return print(f"go,{name} take care")
+
+
 #for specific data
 
 person1 = {"name":"karan", "age": 19,"course":"BTech"}

@@ -3,6 +3,7 @@
 import MyModule
 MyModule.hello("karan")
 MyModule.bye("rohan")
+MyModule.go("roman")
 
 #access specific part of code   
 from MyModule import person1 
